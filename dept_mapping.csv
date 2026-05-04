@@ -1,0 +1,87 @@
+departmentId,departmentName,School
+164,ACCT,Business & Social Sciences
+221,ACCT-DL,Business & Social Sciences
+123,AHMT,Nursing
+896,AHMT-DL,Nursing
+165,ALDC,Business & Social Sciences
+166,ANTH,Business & Social Sciences
+223,ANTH-DL,Business & Social Sciences
+126,ARTS,Arts & Humanities
+183,ARTS-DL,Arts & Humanities
+127,ASLN,Arts & Humanities
+154,BIOL,STEM
+276,BIOL,STEM
+211,BIOL-DL,STEM
+289,BUSN,Business & Social Sciences
+167,BUSN,Business & Social Sciences
+224,BUSN-DL,Business & Social Sciences
+155,CHEM,STEM
+212,CHEM-DL,STEM
+130,COEM,Arts & Humanities
+131,COMM,Arts & Humanities
+253,COMM,Arts & Humanities
+188,COMM-DL,Arts & Humanities
+168,CRIM,Business & Social Sciences
+225,CRIM-DL,Business & Social Sciences
+156,CSIT,STEM
+278,CSIT,STEM
+213,CSIT-DL,STEM
+169,ECON,Business & Social Sciences
+291,ECON,Business & Social Sciences
+226,ECON-DL,Business & Social Sciences
+170,EDUC,Business & Social Sciences
+227,EDUC-DL,Business & Social Sciences
+390,Educational Opportunity Fund (EOF),
+134,ENGL,Arts & Humanities
+256,ENGL,Arts & Humanities
+191,ENGL-DL,Arts & Humanities
+158,ENGR,STEM
+159,ENVI,STEM
+216,ENVI-DL,STEM
+947,ESOL,Arts & Humanities
+136,FILM,Arts & Humanities
+193,FILM-DL,Arts & Humanities
+137,FREN,Arts & Humanities
+894,FRSC,Business & Social Sciences
+902,FRSC-DL,Business & Social Sciences
+172,GEOG,Business & Social Sciences
+229,GEOG-DL,Business & Social Sciences
+628,GRPH,Arts & Humanities
+173,HEHP,Business & Social Sciences
+230,HEHP-DL,Business & Social Sciences
+141,HIST,Arts & Humanities
+198,HIST-DL ,Arts & Humanities
+174,HLSC,Business & Social Sciences
+176,HRTM,Business & Social Sciences
+233,HRTM-DL,Business & Social Sciences
+586,INFO-DL,
+750,INTR,
+345,ITAL-DL,Arts & Humanities
+161,MATH,STEM
+283,MATH,STEM
+218,MATH-DL,STEM
+147,MUSC,Arts & Humanities
+204,MUSC-DL,Arts & Humanities
+121,NURS,Nursing
+245,NURS-HB,Nursing
+30,Online,
+148,PHIL,Arts & Humanities
+205,PHIL-DL,Arts & Humanities
+132,PHOT,Arts & Humanities
+162,PHYS,STEM
+219,PHYS-DL,STEM
+179,POLI,Business & Social Sciences
+236,POLI-DL,Business & Social Sciences
+180,PSYC,Business & Social Sciences
+237,PSYC-DL,Business & Social Sciences
+207,RELG-DL,Arts & Humanities
+181,SOCI,Business & Social Sciences
+303,SOCI,Business & Social Sciences
+238,SOCI-DL,Business & Social Sciences
+629,SOWK,Business & Social Sciences
+152,SPAN,Arts & Humanities
+335,SPAN-DL,Arts & Humanities
+363,STSC,Business & Social Sciences
+364,STSC-DL,Business & Social Sciences
+365,STSC-HB,Business & Social Sciences
+153,THTR,Arts & Humanities
